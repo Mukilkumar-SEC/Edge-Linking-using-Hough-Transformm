@@ -27,7 +27,7 @@ import cv2
 import matplotlib.pyplot as plt
 ```
 ```
-image = cv2.imread('dog.jpg')  
+image = cv2.imread('sanji.jpeg')  
 ```
 ```
 plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
